@@ -1,5 +1,5 @@
 .places {
-  text-align:center;
+text-align:center;
 }
 
 .places h1 {
@@ -13,11 +13,13 @@
 
 .places article {
   width:390px;
+  height:350px;
   padding:20px;
   margin:20px;
   border:solid 1px #FF5A5F;
   border-radius:4px;
   display:inline-block;
+  vertical-align:top;
 
 }
 
@@ -73,5 +75,15 @@
   background-position:top;
   display:inline-block;
   padding-top:50px;
+}
 
+.user {
+  font-weight:bold;
+  text-align:left;
+  padding-top:20px;
+}
+
+.description {
+  text-align:left;
+  padding-top:10px;
 }
