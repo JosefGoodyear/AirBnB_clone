@@ -76,6 +76,8 @@ h4 {
   margin-top: -5px;
   display:none;
   padding:20px;
+  z-index:1000;
+  position:relative;
 }
 
 ul {

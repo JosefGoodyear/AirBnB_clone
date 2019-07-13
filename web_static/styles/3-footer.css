@@ -1,13 +1,15 @@
 footer {
   background-color:white;
-  height:60px;
   width:100%;
-  position:fixed;
-  bottom:0px;
+  height:60px;
+  line-height:60px;
   border-top: 1px solid #CCCCCC;
+  position:absolute;
+  bottom:0px;
+  margin-bottom:-60px;
+
 
 }
 .bottomtext {
   text-align:center;
-  line-height:60px;
 }
